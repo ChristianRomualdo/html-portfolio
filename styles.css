@@ -107,13 +107,14 @@ header {
 }
 
 .skills h2 {
+  text-align:center;
   font-size: 2em;
   color: #339796;
   margin-bottom: 20px;
 }
 
 .skills-table {
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
   border-collapse: collapse;
   font-size: 1.2em;
